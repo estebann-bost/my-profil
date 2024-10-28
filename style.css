@@ -1,0 +1,135 @@
+
+body {
+  background-color: #F7F9FC;
+  color: rgb(97, 103, 122);
+  font-family: Roboto,sans-serif;
+  align-content: center;
+}
+
+div{
+
+ margin: 40px;
+ margin-right: 100px;
+ margin-left: 100px;
+ background-color: white;
+ padding: 20px;
+ box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+
+@media (max-width: 1000px){
+
+  .container{
+   width: 500px;
+  }
+}
+
+
+
+
+
+
+#start{
+
+  border-color: rgb(39, 40, 41);
+  background-color: white
+}
+
+h1{
+  color: rgb(19, 62, 135);
+  font-size: xxx-large;
+
+
+}
+
+h2 {
+  color: rgb(19, 62, 135);
+  font-weight:400;
+
+
+}
+
+h3{
+
+  font-weight: 400;
+  color: rgb(19, 62, 135);
+
+
+}
+
+h4{
+  font-weight: 100;
+  font-size: 16px;
+  font-weight:300;
+}
+h5{
+  font-weight: 200;
+}
+a{
+text-decoration: none;
+font-weight: 400;
+color: rgb(19, 62, 135);
+}
+
+a:hover{
+color:rgb(96, 139, 193) ;
+}
+
+p{
+  text-justify: center;
+}
+
+
+.mentions{
+ color: red;
+ font-size: x-large;
+}
+
+.img-circle  {
+
+  width:  200px;
+  height: 200;px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.blue-btn{
+  background-color: rgb(19, 62, 135);
+  color: white ;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+
+.blue-btn:hover{
+  background-color: rgb(96, 139, 193);
+  color: white;
+}
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+
+.list-inline li{
+
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i{
+
+  font-size: 35px;
+  padding
+}
+
+
+
+/*custom designs with class*/
+
+
+
+
+
+
+
